@@ -1,11 +1,12 @@
 import cv2
 import mediapipe as mp
 import time  # to check the frame rate
+import HandTrakingModule as htm
 
 pTime = 0  # Previous time
 cTime = 0  # Current time
 cap = cv2.VideoCapture(0)
-detector = handDetector()
+detector = htm.handDetector()
 
 while True:
     success, img = cap.read()
