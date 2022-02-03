@@ -1,6 +1,6 @@
 # Hand-Tracking
 
-<img src="1.PNG">
+<img src="2.PNG">
 Hand traking consitsts of two part:
 1- Palm Detection
 Works on complete images and provide cropped image of the hand.
@@ -13,3 +13,6 @@ MediaPipe is Google's open-source framework, used for media processing.
 It is cross-platform or we can say it is platform friendly. It is run on Android, iOS, web, and YouTube servers that's what Cross-platform means, to run everywhere.
 
 To train thus land mark using MediaPipe, they manually anotated 30.000 images of different hands.
+
+
+<img src="1.PNG">
