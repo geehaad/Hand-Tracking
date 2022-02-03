@@ -1,6 +1,6 @@
 # Hand-Tracking
 
-<img src="a.PNG">
+<img src="1.PNG">
 Hand traking consitsts of two part:
 1- Palm Detection
 Works on complete images and provide cropped image of the hand.
